@@ -4,11 +4,11 @@ Uma calculadora simples desenvolvida em **Kotlin** para Android.
 
 ## 🚀 Como rodar o projeto
 
-Você pode executar este projeto de duas formas:
+Você pode executar este projeto assim:
 
 ---
 
-### ✅ 1. **Via Android Studio (recomendado)**
+### **Via Android Studio (recomendado)**
 
 #### Passo a passo:
 
