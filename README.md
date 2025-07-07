@@ -28,14 +28,6 @@ Você pode executar este projeto de duas formas:
 
 ---
 
-### 🌐 2. **Via Replit (modo online)**
-
-Caso prefira, você poderá rodar o projeto diretamente no navegador (sem Android Studio) através do Replit:
-
-🔗 [Link do projeto no Replit](#)  
-
----
-
 ## 🛠️ Tecnologias usadas
 
 - Kotlin
